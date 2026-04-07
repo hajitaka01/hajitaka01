@@ -27,6 +27,17 @@
 ---
 
 ## 📂 Projects
+
+### 🏗️ Construction Company Website (Featured)
+- Real-world project for a construction company
+- Built with PHP & MySQL
+- Developed backend and dynamic content
+- Designed UI for service showcase
+
+🔗 https://github.com/hajitaka01/construction-company-website
+
+---
+
 ### 🔹 Student Management System
 - CRUD student data
 - File handling
