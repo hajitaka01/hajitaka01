@@ -3,7 +3,7 @@
 
 ---
 
-> 💻 I have experience building a PHP website with MySQL
+> 💻 Built a PHP website using MySQL, interested in backend development
 
 ---
 
