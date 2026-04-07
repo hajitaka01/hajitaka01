@@ -19,6 +19,7 @@
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-basic-yellow?style=for-the-badge&logo=python)
 
 ---
 
