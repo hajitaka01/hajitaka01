@@ -69,6 +69,7 @@
 * Built a company website using PHP & MySQL
 * Created UI for services and navigation
 * Implemented simple dynamic content
+* Used to present company services and basic information
 
 🔗 https://github.com/hajitaka01/construction-company-website
 
