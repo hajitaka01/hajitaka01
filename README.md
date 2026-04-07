@@ -6,8 +6,8 @@
 ## 🚀 About Me
 - 🎓 Student at **HUTECH (2021 - 2025)**
 - 💡 Passionate about **C/C++ & Software Development**
-- 🌱 Currently learning **Data Structures & Database Systems**
-- 🎯 Goal: Become a **Professional Software Developer**
+- 🌱 Currently learning **Data Structures & Database**
+- 🎯 Goal: Become a **Professional Developer**
 
 ---
 
@@ -19,7 +19,6 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -36,7 +35,6 @@
 ### 🔹 Algorithm Practice
 - Recursion
 - Arrays & matrices
-- Basic data structures
 
 ---
 
@@ -45,19 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hajitaka01&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajitaka01&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 Experience
-- 🍽️ Service Staff at Merastis Restaurant
-  - Teamwork & communication
-  - Work discipline
-
----
-
-## 📚 Activities
-- QA & Testing Workshops
-- Career Orientation Seminars
 
 ---
 
@@ -70,9 +55,8 @@
 
 ## 📫 Contact
 - 📧 hongphuongvu.a@gmail.com
-- 📍 Ho Chi Minh City, Vietnam
 
 ---
 
 ## ⚡ Quote
-> Keep coding. Keep improving. 🚀
+> Keep coding. Keep improving 🚀
