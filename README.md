@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vũ Hồng Phương</h1>
-<h3 align="center">💻 Information Technology Student | Future Software Developer</h3>
+<h3 align="center">💻 IT Student | Aspiring Software Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 IT Student at **HUTECH (2021 - 2025)**
-- 💡 Passionate about **Software Development & Problem Solving**
-- 🌱 Currently improving skills in **C/C++, Database & Backend**
+- 🎓 Student at **HUTECH (2021 - 2025)**
+- 💡 Passionate about **C/C++ & Software Development**
+- 🌱 Currently learning **Data Structures & Database Systems**
 - 🎯 Goal: Become a **Professional Software Developer**
 
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Programming Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
@@ -21,27 +21,22 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite)
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
 ## 📂 Projects
-### 🔹 Student Management System (C/C++)
+### 🔹 Student Management System
 - CRUD student data
 - File handling
-- Sorting & Searching algorithms
+- Sorting & searching
 
-### 🔹 Data Structure Practice
+### 🔹 Algorithm Practice
 - Recursion
-- Array & Matrix
-- Algorithm training
-
-### 🔹 Database Practice
-- SQL Server / MySQL exercises
-- Query optimization basics
+- Arrays & matrices
+- Basic data structures
 
 ---
 
@@ -54,31 +49,30 @@
 ---
 
 ## 🏆 Experience
-- 🍽️ Service Staff at Merastis Restaurant (2020 - 2021)
-  - Improved teamwork & communication skills
-  - Built strong work discipline
+- 🍽️ Service Staff at Merastis Restaurant
+  - Teamwork & communication
+  - Work discipline
 
 ---
 
 ## 📚 Activities
-- Participated in **QA & Testing Workshops**
-- Attended **Career Orientation Seminars**
+- QA & Testing Workshops
+- Career Orientation Seminars
 
 ---
 
 ## 🎯 Soft Skills
-- ✔ Teamwork
-- ✔ Time Management
-- ✔ Problem Solving
-- ✔ Presentation Skills
+- Teamwork
+- Time Management
+- Problem Solving
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: hongphuongvu.a@gmail.com
-- 📍 Location: Ho Chi Minh City, Vietnam
+## 📫 Contact
+- 📧 hongphuongvu.a@gmail.com
+- 📍 Ho Chi Minh City, Vietnam
 
 ---
 
-## ⚡ Fun Fact
-> I started from basic C programming and I'm leveling up every day 🚀
+## ⚡ Quote
+> Keep coding. Keep improving. 🚀
